@@ -35,6 +35,11 @@ _eKYC for Tele Sales Services:_
 _Authorization Services:_  
 - Created an OAuth 2 service for authentication and authorization with a prototype project for easy implementation.
 
+For every service I initiated, I also wrote Dockerfiles for building container images and Kubernetes deployment files for containerized environments. Additionally, I managed deployment processes, including:
+- **Configuration Management:** Implemented configuration management practices to ensure consistent and reliable deployments.
+- **Secret Management:** Utilized secure methods for managing sensitive information and secrets.
+- **CI/CD:** Designed and maintained CI/CD pipelines using GitHub Actions to automate integration and deployment processes.
+
 ### Software Engineer
 **Gosoft (Thailand)**  
 _Oct 2020 - Nov 2022 (2 years 2 months)_  
@@ -49,6 +54,11 @@ Experienced in all phases of the SDLC, including coding, testing, deployment, an
 - **Text Formats:** XML, JSON
 - **Database:** Oracle SQL
 - **Version Control:** SVN
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes
+- **Deployment & Configuration:** Docker, Kubernetes, Configuration Management
+- **Secret Management:** Secure storage and handling of sensitive information
+- **CI/CD:** GitHub Actions for continuous integration and continuous deployment
 
 ## Education
 
@@ -61,6 +71,7 @@ Tech Stack: Java, C, RabbitMQ, JavaScript, MySQL, CSS, ChartJS, Bootstrap, Googl
 ---
 
 Feel free to explore my profile for more details or contact me directly. I’m looking forward to connecting with you and exploring new opportunities together.
+
 
 
 <!---
