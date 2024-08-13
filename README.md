@@ -35,10 +35,11 @@ _eKYC for Tele Sales Services:_
 _Authorization Services:_  
 - Created an OAuth 2 service for authentication and authorization with a prototype project for easy implementation.
 
-For every service I initiated, I also wrote Dockerfiles for building container images and Kubernetes deployment files for containerized environments. Additionally, I managed deployment processes, including:
+For every service I initiated, I wrote Dockerfiles for building container images and Kubernetes deployment files for containerized environments. I also managed deployment processes including:
 - **Configuration Management:** Implemented configuration management practices to ensure consistent and reliable deployments.
 - **Secret Management:** Utilized secure methods for managing sensitive information and secrets.
 - **CI/CD:** Designed and maintained CI/CD pipelines using GitHub Actions to automate integration and deployment processes.
+- **Infrastructure as Code (IaC):** Leveraged Kubernetes and Helm for Infrastructure as Code, managing resources like MongoDB and Redis. Helm charts were used to define, install, and upgrade complex Kubernetes applications, ensuring efficient and scalable deployment of infrastructure components.
 
 ### Software Engineer
 **Gosoft (Thailand)**  
@@ -56,7 +57,8 @@ Experienced in all phases of the SDLC, including coding, testing, deployment, an
 - **Version Control:** SVN
 - **Containerization:** Docker
 - **Orchestration:** Kubernetes
-- **Deployment & Configuration:** Docker, Kubernetes, Configuration Management
+- **Deployment & Configuration:** Docker, Kubernetes, Helm, Configuration Management
+- **Infrastructure as Code (IaC):** Kubernetes, Helm for managing infrastructure components like MongoDB and Redis
 - **Secret Management:** Secure storage and handling of sensitive information
 - **CI/CD:** GitHub Actions for continuous integration and continuous deployment
 
@@ -71,6 +73,7 @@ Tech Stack: Java, C, RabbitMQ, JavaScript, MySQL, CSS, ChartJS, Bootstrap, Googl
 ---
 
 Feel free to explore my profile for more details or contact me directly. I’m looking forward to connecting with you and exploring new opportunities together.
+
 
 
 
